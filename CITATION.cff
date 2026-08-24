@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository."
+title: "WOLF — Weighted Observation of Latent Failure"
+type: software
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+version: 0.1.0
+date-released: 2026-08-23
+license: MIT
